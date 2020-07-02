@@ -1,7 +1,8 @@
-#Funny Seeing You Here
+# Funny Seeing You Here
+
 Hi! My name is Jennifer Walker and I am apart of DeltaV's Code School. This website is a place to store all of my learnings and development over the course of many bootcamps to come. You can learn more about me [here](https://github.com/jennieleewalker)!
 
-#Growth Mindset
+# Growth Mindset
 
 A **growth mindset** is a crucial stage of thinking required to unlock _true_ potential and development when learning. The main ways to identify a growth mindset are:
 
