@@ -11,3 +11,5 @@ Markdown is an easier and faster way to code and takes less time than HTML. Mark
 Markdown is not difficult to learn by any means, but it does take practice and some memorization of symbols and characters that will create what you're looking to make. If you're looking to practice it, GitHub uses Markdown pretty much everywhere, and it's a great place to start. Anytime you see a file with **.md** at the end of the file means that it is written in Markdown.
 
 Github Pages will convert any Markdown that you write and publish it to a page! So if you're looking to practice and learn, you can create a beautiful website with Markdown and Github
+
+[Return to Homepage](https://jennieleewalker.github.io/reading-notes/)
