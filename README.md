@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+#Funny Seeing You Here
+Hi! My name is Jennifer Walker and I am apart of DeltaV's Code School. This website is a place to store all of my learnings and development over the course of many bootcamps to come. You can learn more about me [here](https://github.com/jennieleewalker)!
 
-You can use the [editor on GitHub](https://github.com/jennieleewalker/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#Growth Mindset
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A **growth mindset** is a crucial stage of thinking required to unlock _true_ potential and development when learning. The main ways to identify a growth mindset are:
 
-### Markdown
+1. Inviting and investing in challenges.
+2. Taking on obstacles head on.
+3. Giving your best effort no matter the challenge.
+4. Adopting constructive critism.
+5. Encouraged by the success of others.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+With growth mindset being such a fundamental piece of success, there are a few things for me to keep in mind as I continue down this path of learning.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jennieleewalker/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Be comfortable with failing.
+- "The Pit" is just part of the process.
+- I am never alone, and can always reach out for help.
