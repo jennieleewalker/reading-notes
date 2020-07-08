@@ -1,10 +1,10 @@
 # The Coder's Computer
 
-The Coder's Computer is an incredibly valuable lesson apart of preparing your computer for coding. There are a handful of important software that can help create a healthy enviorment when learning to code 
+The Coder's Computer is an incredibly valuable lesson apart of preparing your computer for coding. There are a handful of important software that can help create a healthy environment when learning to code 
 
 **Visual Studio Code**
 
-Visual Studio Code, otherwise named VS Code is a text editor for coding. It has multiple extentions that can be added to it to help make coding easier, as well, such as _HTML Boilerplate_ and _Auto Close Tag_.
+Visual Studio Code, otherwise named VS Code is a text editor for coding. It has multiple extensions that can be added to it to help make coding easier, as well, such as _HTML Boilerplate_ and _Auto Close Tag_.
 
 
 **Ubuntu**
@@ -14,7 +14,7 @@ Ubuntu is a software operating system that allows you to code freely and interac
 
 **Git**
 
-Git is a a distributed version-control system, which means it tracks changes in code to help manage software development more efficently.
+Git is a a distributed version-control system, which means it tracks changes in code to help manage software development more efficiently.
 
 **Tree**
 
@@ -22,7 +22,7 @@ Tree is a command that shows the scaffolding of directories and folders in a ter
 
 **Node**
 
-Node is an enviorment that runs Javascript.
+Node is an environment that runs Javascript.
 
 **NPM**
 
@@ -52,7 +52,7 @@ A text editor is, simply put, a software that allows you to write and manage tex
 
 The main few things to think about when choosing the best one for you is:
 
-- Can I choose a variety of helpful extentions?
+- Can I choose a variety of helpful extensions?
 - Does it highlight the syntax?
 - Can I choose a variety of themes to help with eye strain?
 - Does it auto complete code when I start typing?
