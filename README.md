@@ -21,4 +21,7 @@ With growth mindset being such a fundamental piece of success, there are a few t
 # Other Learnings
 
 Table of Contents
+
 [Learning Markdown](LEARNING_MARKDOWN.md)
+
+[The Coder's Computer](CODER'S_COMPUTER.md)
