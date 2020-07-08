@@ -83,3 +83,6 @@ There is a lot of different commands that you need to remember to navigate code,
   - `file.txt` - a plain text file.
   - `file.png`, `file.gif`, `file.jpg` - an image.
   - There are no spaces in names, they are case sensitive and if there is a period `.` in front of it, it's hidden.
+  
+  
+[Return to Homepage](https://jennieleewalker.github.io/reading-notes/)
